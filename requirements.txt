@@ -3,4 +3,7 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
-tqdm 
+tqdm
+sentence-transformers
+faiss-cpu
+chromadb
