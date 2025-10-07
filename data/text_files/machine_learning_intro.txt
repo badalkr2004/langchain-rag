@@ -1,0 +1,36 @@
+Machine Learning is a branch of Artificial Intelligence (AI) that focuses on creating systems that can learn from data and improve their performance over time without being explicitly programmed.
+
+In traditional programming, a developer writes a set of rules for the computer to follow. In machine learning, instead of giving rules, we feed the computer a large amount of data, and the system automatically learns patterns and makes predictions or decisions based on that data.
+
+Machine learning uses algorithms that identify relationships, detect patterns, and make predictions. These algorithms are trained using datasets that contain input (features) and sometimes output (labels). Once trained, the model can make predictions on new, unseen data.
+
+Types of Machine Learning
+
+Supervised Learning – The model is trained using labeled data (input and correct output are known).
+Examples: Predicting house prices, email spam detection.
+
+Unsupervised Learning – The model learns from unlabeled data and tries to find hidden patterns or groupings.
+Examples: Customer segmentation, market basket analysis.
+
+Reinforcement Learning – The model learns by interacting with an environment and receiving rewards or penalties for its actions.
+Examples: Self-driving cars, game-playing AI.
+
+Applications of Machine Learning
+
+Recommendation Systems – Netflix, YouTube, and Amazon suggestions.
+
+Image and Speech Recognition – Face detection, voice assistants.
+
+Healthcare – Disease prediction, drug discovery.
+
+Finance – Fraud detection, credit scoring.
+
+Autonomous Vehicles – Navigation and obstacle detection.
+
+Natural Language Processing (NLP) – Chatbots and translation systems.
+
+Conclusion
+
+Machine Learning enables computers to analyze data, identify patterns, and make decisions with minimal human intervention. It is a key technology driving innovations in many industries today and forms the backbone of modern AI systems.
+
+    
